@@ -10,7 +10,7 @@ Authors@R: c(person("Wanding", "Zhou", role = c("aut","cre"),
              email = "Hui.Shen@vai.org"),
              person("Timothy", "Triche", role = "ctb"))
 Depends:
-    R (>= 3.5)
+    R (>= 3.4)
 License: Artistic-2.0
 LazyData: TRUE
 RoxygenNote: 6.0.1
